@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!--
+    name : Uri 주소체계 -> content://Camera/어쩌고저쩌고/이미지.jpg
+    path : 실제디렉토리 이름
+    -->
+    <external-path name="Camera" path="CameraDir"/>
+</paths>
